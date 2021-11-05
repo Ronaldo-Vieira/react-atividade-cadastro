@@ -1,0 +1,15 @@
+#react {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #6252A2;
+    width: 900px;
+}
+img {
+    width: 500px;
+}
+#react h1 {
+    font-size: 5em;
+    color: #fff;
+}
